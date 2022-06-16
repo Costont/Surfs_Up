@@ -9,9 +9,9 @@
 ### Results
 
 ##### The results of the Surfs Up Analysis determined the following:
-- Based on count of 1,700 temperatures in the month of June over the course of seven years, the average temperature is calculated at 75 degrees, minimum of 64 degrees, and maximum of 85 degrees.
-- Based on count of 1,517 temperatures in the month of December over the course of seven years, the average temperature is calculated at 71 degrees, minimum of 56 degrees, and maximum of 83 degrees.
-- There are 183 more temperatures analyzed for June statistics than December statistics for the seven year period, however the amount of variance between the two data sets is relatively close to one another at 3.26 standard deviation (June) and 3.75 standard deviation (December).
+- The month of June over the course of seven years, the average temperature is calculated at 75 degrees, minimum of 64 degrees, and maximum of 85 degrees.
+- The month of December over the course of seven years, the average temperature is calculated at 71 degrees, minimum of 56 degrees, and maximum of 83 degrees.
+- Over a seven year period, the amount of variance between the two data sets is relatively close to one another at 3.26 standard deviation (June) and 3.75 standard deviation (December).
 
 ### June Statistics
 ![image](https://user-images.githubusercontent.com/96215773/173988207-96d77994-8275-4ccd-a60e-553355edf403.png)
