@@ -23,8 +23,3 @@
 
 ##### In summary, it would be my opinion that the island of O'ahu is an ideal location for an ice cream surf shop that would have business year-round.  After running two additional queries by creating histograms of the June and December temperature data, it appears that the month of December actually has temperatures greater than 70 and 75 degrees over 300 times each also verifying that O'ahu would be an ideal location for the ice cream surf shop year-round.
 
-### June Histogram
-![](Resources/June_Histogram.png)
-
-### December Histogram
-![](Resources/December_Histogram.png)
