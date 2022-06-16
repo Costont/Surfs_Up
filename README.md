@@ -1,4 +1,3 @@
-# Surfs_Up
 # Surfs Up Analysis
 
 ## Overview of the Surfs Up Analysis
@@ -15,10 +14,10 @@
 - There are 183 more temperatures analyzed for June statistics than December statistics for the seven year period, however the amount of variance between the two data sets is relatively close to one another at 3.26 standard deviation (June) and 3.75 standard deviation (December).
 
 ### June Statistics
-![](Resources/June_Query.PNG)
+![image](https://user-images.githubusercontent.com/96215773/173988207-96d77994-8275-4ccd-a60e-553355edf403.png)
 
 ### December Statistics
-![](Resources/December_Query.PNG)
+![image](https://user-images.githubusercontent.com/96215773/173988312-31daba36-f29b-4515-af6d-ee9d67bf70a1.png)
 
 ### Summary
 
